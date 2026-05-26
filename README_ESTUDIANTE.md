@@ -46,3 +46,9 @@ Personalizar una plantilla web profesional utilizando Git y GitHub.
 <img width="1919" height="1079" alt="imagen" src="https://github.com/user-attachments/assets/37d25123-37c8-4e72-a7bb-a91bdc3a2223" />
 
 <img width="1919" height="1076" alt="imagen" src="https://github.com/user-attachments/assets/6ad1feb7-2f3e-4cfb-9fe8-0c2455c29ee2" />
+
+<img width="1919" height="1079" alt="imagen" src="https://github.com/user-attachments/assets/e0f0d95a-3fd2-45ea-a607-30f715c40227" />
+
+<img width="1919" height="1079" alt="imagen" src="https://github.com/user-attachments/assets/169015a6-fc24-4fb5-942c-372f636713f5" />
+
+<img width="1919" height="1079" alt="imagen" src="https://github.com/user-attachments/assets/8bd6411c-4d26-4a18-9f3c-68ad6241fa0d" />
